@@ -26,21 +26,7 @@ public record CadastrarVeiculos(
 		                         	          		
 				
 		
-		                    ) {
+		                      ) {
 
-	/*private CadastrarVeiculos(Veiculos cadastro) { 
-		this(cadastro.getNomeCliente(),
-				cadastro.getCpf(),
-				cadastro .getTelefone(),
-				cadastro.getMarca(),
-				cadastro.getModelo(),
-				cadastro.getCor(),
-				cadastro.getPlaca(),
-				cadastro.getDataDaReserva(),
-				cadastro.getDataDaEntrega(),
-				cadastro.getValorTotal());
-				
-		
-	}*/
-}
+ }
   
